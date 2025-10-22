@@ -28,6 +28,8 @@ The following **required** functionality is completed:
 - [ X] **Users can update or delete `CustomItem`s that have been created from the detail page.**
 
 
+
+
 The following **optional** features are implemented:
 
 - [ ] Selecting particular options prevents incompatible options from being selected even before form submission
@@ -40,7 +42,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='client\public\project_4_web3_WalkThrough_tables.gif' title='Table Walkthrough' width='' alt='Video table Walkthrough' />
+
+<img src='client\public\project_4_web3_WalkThrough.gif' title='Table Walkthrough' width='' alt='Video table Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
